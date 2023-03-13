@@ -33,7 +33,7 @@ Online transferring money system: Fast transfer & receive money system, Secure v
 ## 📄 Documentation
 ![image](https://user-images.githubusercontent.com/33567830/224798475-d5d23f89-d1d4-4208-bb26-8711a74ec10d.png)
 ![image](https://user-images.githubusercontent.com/33567830/224798550-6a97f230-04c6-497b-b15b-8b98d3e480fc.png)
-![image](https://user-images.githubusercontent.com/33567830/224798587-e377a9d8-bc5d-4957-87c2-5c6866a8b822.png)
+![image](https://user-images.githubusercontent.com/33567830/224838273-69446619-09a1-4513-b913-d17297ed5f6e.png)
 ![image](https://user-images.githubusercontent.com/33567830/224795026-0b46e199-3e14-4819-ab82-d6b629874b63.png)
 
 
