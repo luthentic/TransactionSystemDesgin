@@ -1,8 +1,8 @@
-# 🪙Online Transcation Desgin
+# Online Transcation Desgin
 Online transferring money system: Fast transfer & receive money system, Secure validation users account from various banks, Transaction history database system
 
 
-## 🚀 Overview
+## Overview
 - Stakeholder List
 - Requirements for the system
 - Activity Diagram I
@@ -23,14 +23,7 @@ Online transferring money system: Fast transfer & receive money system, Secure v
 - Class Package Diagram 
 
 
-#### 📖Context:
- The online market experiences a high volume of traffic, which can cause the system to slow down. 
-> <br/>To avoid losing users, it is crucial to prioritize transaction speed and provide a fast and secure authentication process for accessing sensitive client data, which can include valuable organizational assets. 
-> <br/>Additionally, offering a transaction history is essential for clients to track their finances and support their financial statements. 
-> <br/>Ultimately, the top priority for any transaction system should be to create a fast, user-friendly, and secure system. 
-
-
-## 📄 Documentation
+## Example
 ![image](https://user-images.githubusercontent.com/33567830/224798475-d5d23f89-d1d4-4208-bb26-8711a74ec10d.png)
 ![image](https://user-images.githubusercontent.com/33567830/224798550-6a97f230-04c6-497b-b15b-8b98d3e480fc.png)
 ![image](https://user-images.githubusercontent.com/33567830/224838273-69446619-09a1-4513-b913-d17297ed5f6e.png)
